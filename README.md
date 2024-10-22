@@ -19,9 +19,9 @@ Follow this to run the packet sniffer, it has a backend service built with FastA
 
 ## Running the Frontend service
 
-1. **Navigate to the fronted/sniffer-app directory:**
+1. **Navigate to the frontend2/sniffer-app directory:**
    ```bash
-   $ cd /frontend/sniffer-app
+   $ cd /frontend2/sniffer-app
 
 2. **Run the react app:**
    ```bash
