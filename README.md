@@ -27,3 +27,6 @@ Follow this to run the packet sniffer, it has a backend service built with FastA
    ```bash
    $ npm install
    $ npm run dev
+
+#### Then, head over to http://localhost:3000!
+
